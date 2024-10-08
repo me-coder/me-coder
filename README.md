@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @me-coder
 - 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Kubernetes and Terraform.
+- 🌱 I’m currently learning multiple tools and platforms.
 - 💞️ I’m looking to collaborate on anything that is creative.
 - 📫 How to reach me technoy@gmail.com
 
